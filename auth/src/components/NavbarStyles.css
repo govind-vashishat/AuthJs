@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    background-color: #1b2430;
+    padding: 40px 640px;
+    margin-top: -190px;
+    margin-bottom: 130px;
+    width: 1480px;
+    height: 140px;
+    text-align: center;
+    border-bottom: #17cf97 0.5rem solid;
+}
+
+nav a {
+    padding-top: 40px;
+    cursor: pointer;
+}
+
+nav div {
+    padding-top: 40px;
+    font-size: 1.9rem;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
